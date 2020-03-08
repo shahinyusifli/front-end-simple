@@ -1,0 +1,69 @@
+.oz-blue{
+	color:#3cc3b5;
+}
+.money{
+	color:#a1a1a1;
+}
+.color-search{
+	color: #e5e5e5
+}
+.search{
+	font-size: 20px;
+
+}
+.s-1{
+	right: 90px;
+	bottom:25px;
+}
+.margin-top{
+	margin-top: 5px;
+}
+.s-2{
+	left: 40px;
+	bottom:15px;
+}
+.b-blue{
+	background-color: #4ccfc1;
+}
+.b-blue-2{
+	background-color: #42c7b2;
+}
+.font-siz{
+	font-size: 22px;
+}
+.sag-border{
+	color:white;
+	border-right: 1px solid white;
+}
+.pad{
+	padding: 10px;
+}
+.pad-50{
+	padding: 70px;
+}
+.sol-border{
+	color:white;
+	border-left: 1px solid white;
+}
+.white{
+	color: white;
+}
+.size-40{
+	font-size: 60px;
+}
+.back-imgll{
+	background-image: url('../images/l-7.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.back-red{
+	background-color: #40677d;
+}
+.link-button{
+	size: 90px;
+	top:-70px;
+	padding: 60px;
+}
+.margin-left{
+	margin-left: 40px;
+}
